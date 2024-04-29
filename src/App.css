@@ -13,7 +13,11 @@
   align-items: center;
   justify-content: center;
   font-size: 3rem;
+<<<<<<< HEAD
   background-color: #39BDCA;
+=======
+  background-color: #000;
+>>>>>>> c8cca45fc2d1facda37cca0195732bb8dde07c01
   color: #fff;
 }
 
@@ -91,8 +95,11 @@
 
 span {
   margin-left: 16px;
+<<<<<<< HEAD
 }
 
 .Applayout{
   background-color: #f0f0f0;
+=======
+>>>>>>> c8cca45fc2d1facda37cca0195732bb8dde07c01
 }
